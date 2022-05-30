@@ -29,7 +29,7 @@ Multilingual Application using WinUI3
 
 </aside>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4c2843b-7e2a-4b4e-839f-0fda977fd7d1/Untitled.png)
+https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4c2843b-7e2a-4b4e-839f-0fda977fd7d1/Untitled.png
 
 1. VS를 실행하자. *이 때, General이 아닌 Visual C#으로 세팅해준다*
 - 만약 놓쳤다면 아래를 참고해보자!
