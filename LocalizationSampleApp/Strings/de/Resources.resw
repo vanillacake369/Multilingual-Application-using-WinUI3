@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppDisplayName" xml:space="preserve">
+    <value>LokalisierungSampleApp</value>
+  </data>
+  <data name="AppDescription" xml:space="preserve">
+    <value>LokalisierungSampleApp</value>
+  </data>
+  <data name="Shell_Main.Content" xml:space="preserve">
+    <value>Hände</value>
+  </data>
+  <data name="Settings_Personalization.Text" xml:space="preserve">
+    <value>Personalisierung</value>
+  </data>
+  <data name="Settings_Theme.Text" xml:space="preserve">
+    <value>Thema</value>
+  </data>
+  <data name="Settings_Theme_Light.Content" xml:space="preserve">
+    <value>Licht</value>
+  </data>
+  <data name="Settings_Theme_Dark.Content" xml:space="preserve">
+    <value>dunkel</value>
+  </data>
+  <data name="Settings_Theme_Default.Content" xml:space="preserve">
+    <value>Standardmäßig</value>
+  </data>
+  <data name="Settings_About.Text" xml:space="preserve">
+    <value>Über diese Anwendung 😎</value>
+  </data>
+  <data name="Settings_AboutDescription.Text" xml:space="preserve">
+    <value>Settings Seite Platzhalter Text. Ihre App-Description geht hier.</value>
+  </data>
+  <data name="SettingsPage_PrivacyTermsLink.Content" xml:space="preserve">
+    <value>Datenschutzbestimmungen
+</value>
+  </data>
+  <data name="LocalizationChangedMessage.Text" xml:space="preserve">
+    <value>Sie müssen die Anwendung neu starten.
+</value>
+  </data>
+  <data name="Settings_Language.Text" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+</root>

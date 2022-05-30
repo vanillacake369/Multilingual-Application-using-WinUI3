@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CacheFile>
+    <FileName>Strings\en-us\Resources.resw</FileName>
+    <Checksum>1522111688222202101213159180154246657123207</Checksum>
+    <ModifiedTime>2022-05-30T23:39:04.2582328</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\LocalizationSampleApp.es.xlf</FileName>
+    <Checksum>27240183451591072405625313123422612124780</Checksum>
+    <ModifiedTime>2022-05-30T23:39:04.2482326+09:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\es\Resources.resw</FileName>
+    <Checksum>24843243432122281622051110621291383859</Checksum>
+    <ModifiedTime>2022-05-30T23:39:26.1008493+09:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\LocalizationSampleApp.ja.xlf</FileName>
+    <Checksum>14419324761001231821977045225495175158240</Checksum>
+    <ModifiedTime>2022-05-30T23:39:04.2482326+09:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ja\Resources.resw</FileName>
+    <Checksum>64951691281522381312516441612411686720665</Checksum>
+    <ModifiedTime>2022-05-30T23:39:26.1138167+09:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\LocalizationSampleApp.ko.xlf</FileName>
+    <Checksum>15459175144945221512857243104778432387</Checksum>
+    <ModifiedTime>2022-05-31T01:05:22.4681759+09:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ko\Resources.resw</FileName>
+    <Checksum>2557175311293022616515310317813724449180</Checksum>
+    <ModifiedTime>2022-05-31T01:05:23.1276578+09:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\LocalizationSampleApp.de.xlf</FileName>
+    <Checksum>244159152352185089155235207242819120235120</Checksum>
+    <ModifiedTime>2022-05-31T00:57:18.943032+09:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\LocalizationSampleApp.it.xlf</FileName>
+    <Checksum>15121724378134157155217724144115441639</Checksum>
+    <ModifiedTime>2022-05-31T00:57:21.594197+09:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\de\Resources.resw</FileName>
+    <Checksum>44921582141214219114124098196110112150170</Checksum>
+    <ModifiedTime>2022-05-31T00:57:22.0549281+09:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\it\Resources.resw</FileName>
+    <Checksum>707696361051942551542359102491824980242</Checksum>
+    <ModifiedTime>2022-05-31T00:57:22.0609108+09:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

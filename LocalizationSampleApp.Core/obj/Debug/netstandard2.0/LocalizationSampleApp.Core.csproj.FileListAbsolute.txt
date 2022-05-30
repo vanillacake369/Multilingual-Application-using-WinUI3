@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\bin\Debug\netstandard2.0\LocalizationSampleApp.Core.deps.json
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\bin\Debug\netstandard2.0\LocalizationSampleApp.Core.dll
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\bin\Debug\netstandard2.0\LocalizationSampleApp.Core.pdb
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.dll
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp.Core\obj\Debug\netstandard2.0\LocalizationSampleApp.Core.pdb

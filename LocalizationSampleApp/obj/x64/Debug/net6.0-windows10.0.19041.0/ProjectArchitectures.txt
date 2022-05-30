@@ -1,0 +1,1 @@
+C:\Users\admin\source\repos\Lang_Change_Demo\LocalizationSampleApp\LocalizationSampleApp.csproj;x64
