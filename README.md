@@ -19,7 +19,7 @@ Multilingual Application using WinUI3
     - Installation details에서...
         - Universal Windows Platform development
             - C++ (v142)
-1. SDK를 설치해준다.
+3. SDK를 설치해준다.
 
 <aside>
 💡 On Visual Studio 2022 version 17.1 or later, you DON'T need to install Windows App SDK Visual Studio extension (VSIX). Instead, you need to select:
@@ -31,7 +31,7 @@ Multilingual Application using WinUI3
 
 ![image](https://user-images.githubusercontent.com/75259783/171037546-88a25f68-499a-4baf-bba3-92c932b846b0.png)
 
-1. VS를 실행하자. *이 때, General이 아닌 Visual C#으로 세팅해준다*
+4. VS를 실행하자. *이 때, General이 아닌 Visual C#으로 세팅해준다*
 - 만약 놓쳤다면 아래를 참고해보자!
     
     [https://docs.microsoft.com/en-us/visualstudio/ide/environment-settings?view=vs-2022](https://docs.microsoft.com/en-us/visualstudio/ide/environment-settings?view=vs-2022)
