@@ -29,7 +29,7 @@ Multilingual Application using WinUI3
 
 </aside>
 
-![WinUI SDK Settings]https://i.imgur.com/D2E7ffF.png
+![image](https://user-images.githubusercontent.com/75259783/171037546-88a25f68-499a-4baf-bba3-92c932b846b0.png)
 
 1. VS를 실행하자. *이 때, General이 아닌 Visual C#으로 세팅해준다*
 - 만약 놓쳤다면 아래를 참고해보자!
