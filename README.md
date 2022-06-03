@@ -3,8 +3,13 @@
 # Project명 📂
 
 WinUI 3 를 활용한 다국어 응용프로그램
-
 Multilingual Application using WinUI3
+
+# 유튜브 소개영상
+***아래 이미지를 눌러주시면 유튜브가 실행됩니다***
+
+[![2022 C++ 5팀 팀프로젝트](http://img.youtube.com/vi/fNhDcDRrdko/0.jpg)](https://youtu.be/fNhDcDRrdko?t=0s) 
+
 
 # Visual Studio Settings ⚙️
 
