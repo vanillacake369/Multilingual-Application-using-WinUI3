@@ -51,7 +51,7 @@ Multilingual Application using WinUI3
 [Multilingual App Toolkit 4.0 Editor 설치](https://docs.microsoft.com/en-us/windows/apps/design/globalizing/multilingual-app-toolkit-editor-downloads)해준다.
 
 # Process 📜
-
+> 
 1. "Multilingual App Toolkit Editor" app 설치 
 2. "Multilingual App Toolkit v4.1 (VS 2022+)" extension 설치
 3. Template Studio를 사용하여 WinUI 3 app 생성
