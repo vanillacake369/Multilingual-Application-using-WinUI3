@@ -117,10 +117,22 @@ Multilingual Application using WinUI3
 
 - [https://www.youtube.com/watch?v=prOj1j1OILU](https://www.youtube.com/watch?v=prOj1j1OILU)
 
-****Template Studio****
+**Template Studio**
 
 - https://github.com/microsoft/TemplateStudio
 
-****Multilingual App Toolkit 4.0 Editor****
+**Multilingual App Toolkit 4.0 Editor**
 
 - [https://docs.microsoft.com/en-us/windows/apps/design/globalizing/multilingual-app-toolkit-editor-downloads](https://docs.microsoft.com/en-us/windows/apps/design/globalizing/multilingual-app-toolkit-editor-downloads)
+
+**TS WinUI 3 docs**
+- [https://github.com/microsoft/TemplateStudio/tree/main/docs/WinUI](https://github.com/microsoft/TemplateStudio/tree/main/docs/WinUI)
+
+**WinUI 3 docs**
+- [https://docs.microsoft.com/windows/apps/winui/winui3/](https://docs.microsoft.com/windows/apps/winui/winui3/)
+
+**WinUI 3 GitHub repo**
+- [https://github.com/microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)
+
+**Windows App SDK GitHub repo**
+- [https://github.com/microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK)
