@@ -68,8 +68,42 @@ Multilingual Application using WinUI3
 14. UI (SettingsViewModel.cs) 구현
 15. UI (SettingsPage.xaml) 구현
 
-# Reference 🔖
+## File Structure
+```
+.
+├── LocalizationSampleApp/ - WinUI 3 Desktop app
+│ ├── Activation/ - app activation handlers
+│ ├── Behaviors/ - UI controls behaviors
+│ ├── Contracts/ - class interfaces
+│ ├── Helpers/ - static helper classes
+│ ├── Services/ - services implementations
+│ │ ├── ActivationService.cs - app activation and initialization
+│ │ ├── NavigationService.cs - navigate between pages
+│ │ └──  ...
+│ ├── Strings/en-us/Resources.resw - localized string resources
+│ ├── Styles/ - custom style definitions
+│ ├── ViewModels/ - properties and commands consumed in the views
+│ ├── Views/ - UI pages
+│ │ ├── ShellPage.xaml - main app page with navigation frame (only for SplitView and MenuBar)
+│ │ └── ...
+│ └── App.xaml - app definition and lifecycle events
+│ └── Package.appxmanifest - app properties and declarations
+├── LocalizationSampleApp.Core/ - core project (.NET Standard)
+│ ├── Contracts/ - class interfaces
+│ ├── Helpers/ - static helper classes
+│ ├── Models/ - business models
+│ └── Services/ - services implementations
+└── README.md
+```
 
+### 디자인 패턴
+해당 응용프로그램은 MVVM Toolkit을 사용하였습니다. 더 자세한 내용은 [mvvm toolkit docs](https://aka.ms/mvvmtoolkit)를 참조해주세요
+
+# 프로젝트 유형
+해당 응용프로그램은 Navigation Pane을 사용하였습니다. 더 자세한 내용은 [navigation pane docs](https://github.com/microsoft/TemplateStudio/blob/main/docs/UWP/projectTypes/navigationpane.md)를 참조해주세요
+
+
+# Reference 🔖
 **Install Visual Studio 2022 (Ver.17.0) and create your first WinUI 3 app | Tutorial**
 
 - [https://www.youtube.com/watch?v=zRqj2Bt_GjY](https://www.youtube.com/watch?v=zRqj2Bt_GjY)
