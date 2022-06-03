@@ -96,14 +96,15 @@ Multilingual Application using WinUI3
 └── README.md
 ```
 
-### 디자인 패턴
+# Reference 🔖
+
+## 디자인 패턴 참고
 해당 응용프로그램은 MVVM Toolkit을 사용하였습니다. 더 자세한 내용은 [mvvm toolkit docs](https://aka.ms/mvvmtoolkit)를 참조해주세요
 
-# 프로젝트 유형
+## 프로젝트 유형 참고
 해당 응용프로그램은 Navigation Pane을 사용하였습니다. 더 자세한 내용은 [navigation pane docs](https://github.com/microsoft/TemplateStudio/blob/main/docs/UWP/projectTypes/navigationpane.md)를 참조해주세요
 
-
-# Reference 🔖
+## Additional Reference
 **Install Visual Studio 2022 (Ver.17.0) and create your first WinUI 3 app | Tutorial**
 
 - [https://www.youtube.com/watch?v=zRqj2Bt_GjY](https://www.youtube.com/watch?v=zRqj2Bt_GjY)
