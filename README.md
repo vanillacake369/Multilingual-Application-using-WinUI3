@@ -1,6 +1,6 @@
-# WinUI 3 를 활용한 다국어 응용프로그램
+# WinUI 3 를 활용한 다국어 응용프로그램 📔
 
-# Project명 📂
+# Project명 💼
 
 WinUI 3 를 활용한 다국어 응용프로그램
 Multilingual Application using WinUI3
@@ -46,7 +46,7 @@ Multilingual Application using WinUI3
 
 [Template Studio for WinUI (C#)을 설치](https://marketplace.visualstudio.com/items?itemName=TemplateStudio.TemplateStudioForWinUICs)해준다.
 
-## ****Multilingual App Toolkit 4.0 Editor**** 🛠️
+## Multilingual App Toolkit 4.0 Editor 🛠️
 
 [Multilingual App Toolkit 4.0 Editor 설치](https://docs.microsoft.com/en-us/windows/apps/design/globalizing/multilingual-app-toolkit-editor-downloads)해준다.
 
@@ -68,7 +68,7 @@ Multilingual Application using WinUI3
 14. UI (SettingsViewModel.cs) 구현
 15. UI (SettingsPage.xaml) 구현
 
-## File Structure
+# File Structure 🗃
 ```
 .
 ├── LocalizationSampleApp/ - WinUI 3 Desktop app
